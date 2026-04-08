@@ -2,6 +2,6 @@
   "name": "solo-skills",
   "owner": {"name": "ORBWEVA"},
   "plugins": [
-    {"name":"solo","source":{"source":"github","repo":"ORBWEVA/solo-skills"},"description":"Solopreneur business skill. Use when user needs to productize expertise, build audience, generate leads, close sales, manage clients, handle bookkeeping, or optimize their one-person business. Trigger","version":"1.0.0","author":{"name":"ORBWEVA"}}
+    {"name":"solo","source":{"source":"url","url":"https://github.com/ORBWEVA/solo-skills.git"},"description":"Solopreneur business skill. Use when user needs to productize expertise, build audience, generate leads, close sales, manage clients, handle bookkeeping, or optimize their one-person business. Trigger","version":"1.0.0","author":{"name":"ORBWEVA"}}
   ]
 }
