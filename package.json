@@ -1,10 +1,17 @@
 {
   "name": "@orbweva/solo-skills",
   "version": "1.0.0",
-  "description": "Solopreneur business toolkit — strategy, sales, operations, and finances for one-person companies",
-  "keywords": ["claude-code", "skills", "solopreneur", "freelance", "business", "solo"],
+  "description": "Solopreneur business toolkit \u2014 strategy, sales, operations, and finances for one-person companies",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "solopreneur",
+    "freelance",
+    "business",
+    "solo"
+  ],
   "author": "ORBWEVA",
-  "license": "MIT",
+  "license": "CC-BY-NC-SA-4.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/ORBWEVA/solo-skills"
